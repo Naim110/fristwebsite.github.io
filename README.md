@@ -1,2 +1,2 @@
-# fristwebsite.github.io
+# firstwebsite.github.io
 fristwebsite
